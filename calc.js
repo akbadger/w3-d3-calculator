@@ -30,7 +30,7 @@ function divide(x, y) {
 function increment() {
     return answer +=1;
 }
-
+//decrement
 function decrement() {
     return answer += -1
 }
